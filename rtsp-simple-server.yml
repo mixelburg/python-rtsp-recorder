@@ -1,0 +1,4 @@
+protocols: [tcp]
+
+paths:
+  axis-media/media.amp:
